@@ -53,6 +53,27 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_0010.mdls/-c0.cvbl
+# Sora (Atlantica)
+- name: remastered/xa_lm_0000.mdls/-1c0.dds
+  method: copy
+  source:
+  - name: remastered/xa_lm_0000.mdls/-1c0.dds
+- name: remastered/xa_lm_0000.mdls/-1c1.dds
+  method: copy
+  source:
+  - name: remastered/xa_lm_0000.mdls/-1c1.dds
+- name: remastered/xa_lm_0000.mdls/-2c0.dds
+  method: copy
+  source:
+  - name: remastered/xa_lm_0000.mdls/-2c0.dds
+- name: remastered/xa_lm_0000.mdls/-2c1.dds
+  method: copy
+  source:
+  - name: remastered/xa_lm_0000.mdls/-2c1.dds
+- name: remastered/xa_lm_0000.mdls/-c0.cvbl
+  method: copy
+  source:
+  - name: remastered/xa_lm_0000.mdls/-c0.cvbl
 # Sora (High Poly)
 - name: remastered/xa_ex_7010.mdls/-1c0.dds
   multi:
