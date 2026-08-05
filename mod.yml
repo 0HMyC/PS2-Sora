@@ -1,0 +1,104 @@
+title: PS2 Sora
+originalAuthor: moddaman/moddabodda23half
+description: Restores Sora's original PS2 textures/design.
+game: kh1
+assets:
+# Sora
+- name: remastered/xa_ex_0010.mdls/-1c0.dds
+  multi:
+    - name: remastered/xa_ex_0012.mdls/-1c0.dds
+    - name: remastered/xa_ex_0019.mdls/-1c0.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_0010.mdls/-1c0.dds
+- name: remastered/xa_ex_0010.mdls/-1c1.dds
+  multi:
+    - name: remastered/xa_ex_0012.mdls/-1c1.dds
+    - name: remastered/xa_ex_0019.mdls/-1c1.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_0010.mdls/-1c1.dds
+- name: remastered/xa_ex_0010.mdls/-1c2.dds
+  multi:
+    - name: remastered/xa_ex_0012.mdls/-1c2.dds
+    - name: remastered/xa_ex_0019.mdls/-1c2.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_0010.mdls/-1c2.dds
+- name: remastered/xa_ex_0010.mdls/-1c3.dds
+  multi:
+    - name: remastered/xa_ex_0012.mdls/-1c3.dds
+    - name: remastered/xa_ex_0019.mdls/-1c3.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_0010.mdls/-1c3.dds
+- name: remastered/xa_ex_0010.mdls/-2c0.dds
+  multi:
+    - name: remastered/xa_ex_0012.mdls/-2c0.dds
+    - name: remastered/xa_ex_0019.mdls/-2c0.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_0010.mdls/-2c0.dds
+- name: remastered/xa_ex_0010.mdls/-2c1.dds
+  multi:
+    - name: remastered/xa_ex_0012.mdls/-2c1.dds
+    - name: remastered/xa_ex_0019.mdls/-2c1.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_0010.mdls/-2c1.dds
+- name: remastered/xa_ex_0010.mdls/-c0.cvbl
+  multi:
+    - name: remastered/xa_ex_0012.mdls/-c0.cvbl
+    - name: remastered/xa_ex_0019.mdls/-c0.cvbl
+  method: copy
+  source:
+  - name: remastered/xa_ex_0010.mdls/-c0.cvbl
+# Sora (High Poly)
+- name: remastered/xa_ex_7010.mdls/-1c0.dds
+  multi:
+    - name: remastered/xa_ex_7015.mdls/-1c0.dds
+    - name: remastered/xa_ex_7016.mdls/-1c0.dds
+    - name: remastered/xa_ex_7018.mdls/-1c0.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_7010.mdls/-1c0.dds
+- name: remastered/xa_ex_7010.mdls/-1c1.dds
+  multi:
+    - name: remastered/xa_ex_7015.mdls/-1c1.dds
+    - name: remastered/xa_ex_7016.mdls/-1c1.dds
+    - name: remastered/xa_ex_7018.mdls/-1c1.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_7010.mdls/-1c1.dds
+- name: remastered/xa_ex_7010.mdls/-1c2.dds
+  multi:
+    - name: remastered/xa_ex_7015.mdls/-1c2.dds
+    - name: remastered/xa_ex_7016.mdls/-1c2.dds
+    - name: remastered/xa_ex_7018.mdls/-1c2.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_7010.mdls/-1c2.dds
+- name: remastered/xa_ex_7010.mdls/-1c3.dds
+  multi:
+    - name: remastered/xa_ex_7015.mdls/-1c3.dds
+    - name: remastered/xa_ex_7016.mdls/-1c3.dds
+    - name: remastered/xa_ex_7018.mdls/-1c3.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_7010.mdls/-1c3.dds
+- name: remastered/xa_ex_7010.mdls/-1c4.dds
+  multi:
+    - name: remastered/xa_ex_7015.mdls/-1c4.dds
+    - name: remastered/xa_ex_7016.mdls/-1c4.dds
+    - name: remastered/xa_ex_7018.mdls/-1c4.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_7010.mdls/-1c4.dds
+- name: remastered/xa_ex_7010.mdls/-c0.cvbl
+  multi:
+    - name: remastered/xa_ex_7015.mdls/-c0.cvbl
+    - name: remastered/xa_ex_7016.mdls/-c0.cvbl
+    - name: remastered/xa_ex_7018.mdls/-c0.cvbl
+  method: copy
+  source:
+  - name: remastered/xa_ex_7010.mdls/-c0.cvbl
